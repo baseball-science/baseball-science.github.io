@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Baseball Science"
 date:   2018-05-22 10:30:06 -0400
 categories: jekyll update
 ---
